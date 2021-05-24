@@ -10,4 +10,5 @@ elif guess < number:
     print("Your guess is too low.")
 elif guess > number:
     print("Your guess is too high")
-
+else:
+    print("Incorrect!")
